@@ -16,8 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/azzkiabdl/
--Continuous-Deployment-Delivery-berhasil</url>
+      <url>https://maven.pkg.github.com/azzkiabdl/-Continuous-Deployment-Delivery-berhasil</url>
     </repository>
   </distributionManagement>
   
